@@ -6,7 +6,7 @@
 
 include $(TOPDIR)/rules.mk
 
-PKG_NAME:=qbittorrent2
+PKG_NAME:=qbittorrent
 PKG_VERSION:=5.1.2
 PKG_RELEASE=1
 
